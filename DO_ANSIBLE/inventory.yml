@@ -1,0 +1,5 @@
+myhosts:
+  hosts:
+    servidor-web:
+      ansible_host: "IP_DO_HOST"
+      ansible_user: "root"
